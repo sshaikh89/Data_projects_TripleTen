@@ -19,7 +19,6 @@ Projects I worked on while attending the Data Analysis TripleTen Bootcamp.
 - Ran multi-table joins to analyze route and trip duration  
 - Compared weather conditions and ride performance  
 - Developed hypotheses around delays and efficiency using SQL queries
-- 
 ---
 
 ### 📊Sprint 3 Customer Cohort Analysis (Jan 2025) | [Website](#) | [Demo](#)
@@ -32,11 +31,11 @@ Projects I worked on while attending the Data Analysis TripleTen Bootcamp.
 
 ### 📦Sprint 4:Saving Superstore Profitability Analysis (May 2025) | Website | Demo
 **Purpose:** Identify profit/loss drivers, optimize product focus, and guide advertising spend to improve business sustainability
-Analyzed Superstore data in Tableau to reveal top profit-generating and loss-making subcategories
-Flagged underperforming products for removal and identified 3 key subcategories for growth
-Calculated monthly profit by state to recommend ad targeting with ROAS-based budgeting
-Visualized return rate trends across products, customers, and shipping methods to reduce loss
-view report: https://docs.google.com/presentation/d/1riXbVf9KLAhLO3Fxo3OeHNf1VfDlKo5b/edit?usp=drive_link&ouid=106292981641522933639&rtpof=true&sd=true
+-Analyzed Superstore data in Tableau to reveal top profit-generating and loss-making subcategories
+-Flagged underperforming products for removal and identified 3 key subcategories for growth
+-Calculated monthly profit by state to recommend ad targeting with ROAS-based budgeting
+-Visualized return rate trends across products, customers, and shipping methods to reduce loss
+-view report: https://docs.google.com/presentation/d/1riXbVf9KLAhLO3Fxo3OeHNf1VfDlKo5b/edit?usp=drive_link&ouid=106292981641522933639&rtpof=true&sd=true
 
 📄 View Dashboard
 ---
