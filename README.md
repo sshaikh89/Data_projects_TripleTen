@@ -36,6 +36,7 @@ Analyzed Superstore data in Tableau to reveal top profit-generating and loss-mak
 Flagged underperforming products for removal and identified 3 key subcategories for growth
 Calculated monthly profit by state to recommend ad targeting with ROAS-based budgeting
 Visualized return rate trends across products, customers, and shipping methods to reduce loss
+view report: https://docs.google.com/presentation/d/1riXbVf9KLAhLO3Fxo3OeHNf1VfDlKo5b/edit?usp=drive_link&ouid=106292981641522933639&rtpof=true&sd=true
 
 📄 View Dashboard
 ---
@@ -45,7 +46,7 @@ Visualized return rate trends across products, customers, and shipping methods t
 - Created a Tableau dashboard highlighting return trends by region, product, and season  
 - Provided clear visuals for executive team review  
 - Pinpointed high-return items and strategic improvement areas
-- view report
+- view report: https://docs.google.com/presentation/d/1jD4jgJMC1n5iBXAs6bXZWwPybACVidGl/edit?usp=drive_link&ouid=106292981641522933639&rtpof=true&sd=true
 ---
 
 ### 🛒Sprint 6 Shopify App Success Analysis (May 2025) | [Website](#) | [Demo](#)
@@ -53,4 +54,4 @@ Visualized return rate trends across products, customers, and shipping methods t
 - Connected review, install, and rating data in Power BI  
 - Visualized app success metrics and developer responsiveness  
 - Revealed a path to 10% revenue growth via feature + support improvements
-- view report
+- view report: https://docs.google.com/presentation/d/1H2VgyQlT8BJ6J-ucHkHaZavD9HwsOKX4/edit?usp=drive_link&ouid=106292981641522933639&rtpof=true&sd=true
